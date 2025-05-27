@@ -1,0 +1,19 @@
+/* laptop screen*/
+@media screen and (max-width:1200px){
+
+}   
+
+
+
+/* tablet device */
+@media screen and (max-width:1024px) {
+
+}
+    
+
+/* mobile device */
+@media screen and (max-width: 640px) {
+.container h1{
+font-size: 20px;
+}
+}
