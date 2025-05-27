@@ -16,4 +16,13 @@
 .container h1{
 font-size: 20px;
 }
+.container img{
+width: 50%;
+}
+.container h1{
+    font-size: medium;
+}
+ .btn{
+   margin-bottom: 30px;
+}
 }

@@ -177,7 +177,9 @@ body {
 }
 
 /* Footer Section */
-   
+   .footer{
+     margin: 24px 24px;
+   }
 
 .footer-content{
     display: flex;
